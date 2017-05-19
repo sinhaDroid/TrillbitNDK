@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrillbitNDK</string>
+    <string name="enter_a_number">enter a number</string>
+    <string name="calculate">Calculate</string>
+</resources>
